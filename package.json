@@ -10,6 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/ableco/eslint-formatter-github-annotations.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
   "keywords": [
     "eslint",
     "eslint-formatter",
